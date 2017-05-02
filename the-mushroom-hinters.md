@@ -1,4 +1,4 @@
-# THE MUSHROOM HUNTERS
+# Cazadoras de hongos
 
   Science, as you know, my little one, is the study
   of the nature and behaviour of the universe.
