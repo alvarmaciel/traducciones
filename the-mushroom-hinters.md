@@ -1,17 +1,20 @@
 # Cazadoras de hongos
 
-    Science, as you know, my little one, is the study
-    of the nature and behaviour of the universe.
-    It’s based on observation, on experiment, and measurement,
-    and the formulation of laws to describe the facts revealed.
+    La ciencia, como bien sabes, mi pequeño, es el estudio
+    de la naturaleza y el funcionamiento del universo.
+	Está basada en la observación, la experimentación, la medición,
+    y la formulación de leyes para describir los hechos revelados.
     
-    In the old times, they say, the men came already fitted with brains
-    designed to follow flesh-beasts at a run,
-    to hurdle blindly into the unknown,
-    and then to find their way back home when lost
-    with a slain antelope to carry between them.
-    Or, on bad hunting days, nothing.
-   
+    En los viejos tiempos, dicen, el hombre ya vino preparado con cerebros
+	diseñados para seguir a la carrera a las bestias de carne,
+	para atravesar ciegamente los desconocido,
+	y después encontrar su camino a casa cuando si se perdían
+	cargando con un antilope muerto entre ellos.
+	O, en días de mala caza, nada.
+	
+	La mujer, que no necesitaba correr a las presas,
+	tenía cerebros que detectaban marcas en el terreno y creaban caminos entre ellos
+	
     The women, who did not need to run down prey,
     had brains that spotted landmarks and made paths between them
     left at the thorn bush and across the scree
