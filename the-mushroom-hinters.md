@@ -5,71 +5,68 @@
 	Está basada en la observación, la experimentación, la medición,
     y la formulación de leyes para describir los hechos revelados.
     
-    En los viejos tiempos, dicen, el hombre ya vino preparado con cerebros
-	diseñados para seguir a la carrera a las bestias de carne,
-	para atravesar ciegamente los desconocido,
-	y después encontrar su camino a casa cuando si se perdían
-	cargando con un antilope muerto entre ellos.
+    En los viejos tiempos, se dice, los hombres ya vinieron preparados con cerebros
+	diseñados para seguir a las bestias de carne a la carrera,
+	para atravesar ciegamente lo desconocido,
+	y para después encontrar el camino a casa si se perdían,
+	cargando con un antilope muerto con ellos.
 	O, en días de mala caza, nada.
 	
-	La mujer, que no necesitaba correr a las presas,
-	tenía cerebros que detectaban marcas en el terreno y creaban caminos entre ellos
+	Las mujeres, que no necesitaba correr a las presas,
+	tenían cerebros que detectaban marcas en el terreno y creaban caminos
+	entre la izquierda del aquel arbusto espinoso y la bajada de piedritas
+	y miraban hacia abajo a la sombra de aquel arbol medio caido,
+	porque algunas veces había hongos.
 	
-    The women, who did not need to run down prey,
-    had brains that spotted landmarks and made paths between them
-    left at the thorn bush and across the scree
-    and look down in the bole of the half-fallen tree,
-    because sometimes there are mushrooms.
-   
-    Before the flint club, or flint butcher’s tools,
-    The first tool of all was a sling for the baby
-    to keep our hands free
-    and something to put the berries and the mushrooms in,
-    the roots and the good leaves, the seeds and the crawlers.
-    Then a flint pestle to smash, to crush, to grind or break.
+	Antes del garrote de pedernal, o la cuchilla de piedra carnicera.
+	La primer herramienta de todas fue un bolso para colgar al bebe
+	para tener nuestras manos libres
+	y algo en lo que poner las bayas y los hongos,
+	los raíces y las buenas hierbas, las semillas e insectos.
+	Luego un mortero para aplastas, machacar, moler o romper.
+	
+	Y algunas veces los hombres perseguían a las bestias
+	a los proundo del bosque,
+	y nunca maś volvían.
     
-    And sometimes men chased the beasts
-    into the deep woods,
-    and never came back.
+	Algunos hongos te mataran,
+	mientras otros te mostraran a las diosas
+	y algunos alimentaran el hambre de nuestras barrigas. Identificar
+	Otros nos matarán si los comemos crudos,
+	y nos matarán de nuevo si los cocinamos una vez,
+	pero si los hervimos en agua de manantial, y dejamos el agua de lado,
+	y los volvemos a hervir una vez más, y dejamos el agua de lado,
+	solo así podremos comerlo seguras. Observar
+	
+	Observa los nacimientos, medir el crecimiento del vientre y la forma de los pechos,
+	y a través de la experiencia descubrir cómo traer bebes al mundo sin peligro.
     
-    Some mushrooms will kill you,
-    while some will show you gods
-    and some will feed the hunger in our bellies. Identify.
-    Others will kill us if we eat them raw,
-    and kill us again if we cook them once,
-    but if we boil them up in spring water, and pour the water away,
-    and then boil them once more, and pour the water away,
-    only then can we eat them safely. Observe.
+	Observar todo.
     
-    Observe childbirth, measure the swell of bellies and the shape of breasts,
-    and through experience discover how to bring babies safely into the world.
-    
-    Observe everything.
-    
-    And the mushroom hunters walk the ways they walk
-    and watch the world, and see what they observe.
-    And some of them would thrive and lick their lips,
-    While others clutched their stomachs and expired.
-    So laws are made and handed down on what is safe. Formulate.
-    
-    The tools we make to build our lives:
-    our clothes, our food, our path home…
-    all these things we base on observation,
-    on experiment, on measurement, on truth.
-    
-    And science, you remember, is the study
-    of the nature and behaviour of the universe,
-    based on observation, experiment, and measurement,
-    and the formulation of laws to describe these facts.
-    
-    The race continues. An early scientist
-    drew beasts upon the walls of caves
-    to show her children, now all fat on mushrooms
-    and on berries, what would be safe to hunt.
-    
-    The men go running on after beasts.
-    
-    The scientists walk more slowly, over to the brow of the hill
-    and down to the water’s edge and past the place where the red clay runs.
-    They are carrying their babies in the slings they made,
-    freeing their hands to pick the mushrooms.
+	Y las cazadoras de hongos caminan por los caminos que caminan
+	y miran el mundo, y observan los que ven.
+	Y algunas de ellas se desarrollaran y se lameran los labios,
+	mientras otras se agarraran los estómagos y morirán.
+	Así que leyes sobre lo que es seguro son hechas y heredadas. Formular
+	
+	Las herramientas que hacemos para construir nuestras vidas:
+	nuestras ropas, nuestra comida, nuestro camino la hogar...
+	Todas estas cosas las basamos en la obervación,
+	la experimentación, la medición, la verdad.
+	
+	Y la ciencia, recuerda, es el estudio
+	de la naturaleza y el comportamiento del universo,
+	basado en la observación, experimentación, y medición,
+	y la formulación de leyes para describir estos hechos.
+	
+	La carrera conrinua. Una joven científica
+	dibuja bestias sobre las paredes de la cueva
+	para mostrar a sus criaturas, ahora que están llenos de hongos
+	y bayas, que es seguro cazar.
+	
+	Los hombres corren tras las bestias.
+	
+	Las científicas caminan lento, sobre la cima de la colina
+	y bajo la orilla del agua y pasan el lugar donde corre la arcilla roja.
+	Ellas cargan sus bebes en los bolsos que hiceiron,
+	liberando sus manos para recoger los hongos.
